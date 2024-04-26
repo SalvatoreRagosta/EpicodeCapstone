@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="noor-ecommerce-web-two\**" />
+    <Content Remove="noor-ecommerce-web-two\**" />
+    <EmbeddedResource Remove="noor-ecommerce-web-two\**" />
+    <None Remove="noor-ecommerce-web-two\**" />
+  </ItemGroup>
+
+</Project>

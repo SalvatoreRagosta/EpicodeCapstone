@@ -1,0 +1,547 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminPanel
+build_property.RootNamespace = AdminPanel
+build_property.ProjectDir = C:\Users\sasyr\OneDrive\Desktop\project\EpicodeCapstone\AdminPanel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sasyr\OneDrive\Desktop\project\EpicodeCapstone\AdminPanel
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/Banks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQmFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/CreateUserBankAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlVXNlckJhbmtBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_AccountTransEditFormAttachment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9BY2NvdW50VHJhbnNFZGl0Rm9ybUF0dGFjaG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_Banks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9CYW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_UsersBankAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9Vc2Vyc0JhbmtBY2NvdW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_VendorAccountsTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9WZW5kb3JBY2NvdW50c1RyYW5zYWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_VendorPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9WZW5kb3JQYXltZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/PartialViews/_VendorsCommissionSetup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUGFydGlhbFZpZXdzXF9WZW5kb3JzQ29tbWlzc2lvblNldHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/UpdateUserBankAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVXBkYXRlVXNlckJhbmtBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/UsersBankAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVXNlcnNCYW5rQWNjb3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/VendorAccountsTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVmVuZG9yQWNjb3VudHNUcmFuc2FjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/VendorPayments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVmVuZG9yUGF5bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Accounts/VendorsCommissionSetup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVmVuZG9yc0NvbW1pc3Npb25TZXR1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Authentication/PasswordRecovery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUGFzc3dvcmRSZWNvdmVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/AttachmentTypesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXEF0dGFjaG1lbnRUeXBlc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/CategoriesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXENhdGVnb3JpZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/ColorsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXENvbG9yc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/CurrenciesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXEN1cnJlbmNpZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/ManufacturersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXE1hbnVmYWN0dXJlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_AttachmentTypesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfQXR0YWNobWVudFR5cGVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_CategoriesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfQ2F0ZWdvcmllc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_ColorsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfQ29sb3JzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_CurrenciesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfQ3VycmVuY2llc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_ManufacturersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfTWFudWZhY3R1cmVyc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_PaymentMethodsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfUGF5bWVudE1ldGhvZHNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_SizeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfU2l6ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PartialViews/_TagsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBhcnRpYWxWaWV3c1xfVGFnc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/PaymentMethodsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFBheW1lbnRNZXRob2RzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/SizeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFNpemVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/BasicData/TagsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzaWNEYXRhXFRhZ3NMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/PartialViews/_AmChartScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhcnRpYWxWaWV3c1xfQW1DaGFydFNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/PartialViews/_PageGridTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhcnRpYWxWaWV3c1xfUGFnZUdyaWRUaXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/PartialViews/_PageSearchTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhcnRpYWxWaWV3c1xfUGFnZVNlYXJjaFRpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/PartialViews/_SiteMainLoader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhcnRpYWxWaWV3c1xfU2l0ZU1haW5Mb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_BootstrapFormModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9Cb290c3RyYXBGb3JtTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_CommonModals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9Db21tb25Nb2RhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_DataTableLength.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9EYXRhVGFibGVMZW5ndGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_HiddenHtmlFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9IaWRkZW5IdG1sRmllbGRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_ListingDeleteButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9MaXN0aW5nRGVsZXRlQnV0dG9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_PageHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9QYWdlSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_Pager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9QYWdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_SearchFilter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9TZWFyY2hGaWx0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Common/_SuccessErrorMsg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXF9TdWNjZXNzRXJyb3JNc2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/MenuLocalization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxNZW51TG9jYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/MenuLocalizationDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxNZW51TG9jYWxpemF0aW9uRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/PartialViews/_MenuLocalization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxQYXJ0aWFsVmlld3NcX01lbnVMb2NhbGl6YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/PartialViews/_MenuLocalizationDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxQYXJ0aWFsVmlld3NcX01lbnVMb2NhbGl6YXRpb25EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/PartialViews/_RolesRightsSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxQYXJ0aWFsVmlld3NcX1JvbGVzUmlnaHRzU2V0dGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/PartialViews/_ScreensLocalizationSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxQYXJ0aWFsVmlld3NcX1NjcmVlbnNMb2NhbGl6YXRpb25TZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/PartialViews/_SitesLogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxQYXJ0aWFsVmlld3NcX1NpdGVzTG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/RolesRightsSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxSb2xlc1JpZ2h0c1NldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/ScreensLocalization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxTY3JlZW5zTG9jYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Configuration/SitesLogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhdGlvblxTaXRlc0xvZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Demo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/ContactUsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXENvbnRhY3RVc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/CreateNewDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXENyZWF0ZU5ld0Rpc2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/DiscountCampaigns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXERpc2NvdW50Q2FtcGFpZ25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/DiscountsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXERpc2NvdW50c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountCategories/_DiscountCategoriesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudENhdGVnb3JpZXNcX0Rpc2NvdW50Q2F0ZWdvcmllc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountCategories/_DiscountCategoriesModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudENhdGVnb3JpZXNcX0Rpc2NvdW50Q2F0ZWdvcmllc01vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountCategories/_DiscountCategoriesPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudENhdGVnb3JpZXNcX0Rpc2NvdW50Q2F0ZWdvcmllc1BhcnRpYWxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountProducts/_DiscountProductsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudFByb2R1Y3RzXF9EaXNjb3VudFByb2R1Y3RzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountProducts/_DiscountProductsModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudFByb2R1Y3RzXF9EaXNjb3VudFByb2R1Y3RzTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/DiscountProducts/_DiscountProductsPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xEaXNjb3VudFByb2R1Y3RzXF9EaXNjb3VudFByb2R1Y3RzUGFydGlhbFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_CampaignDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfQ2FtcGFpZ25EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_ContactUsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfQ29udGFjdFVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_DiscountCampaigns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfRGlzY291bnRDYW1wYWlnbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_DiscountsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfRGlzY291bnRzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_SiteHomeScreenBanners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfU2l0ZUhvbWVTY3JlZW5CYW5uZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/PartialViews/_SubcribersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFBhcnRpYWxWaWV3c1xfU3ViY3JpYmVyc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/SiteHomeScreenBanners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFNpdGVIb21lU2NyZWVuQmFubmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/SubcribersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFN1YmNyaWJlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Discounts/UpdateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXFVwZGF0ZURpc2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Dynamic/DynamicLocalizationDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY1xEeW5hbWljTG9jYWxpemF0aW9uRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Dynamic/PartialViews/_DynamicLocalizationDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY1xQYXJ0aWFsVmlld3NcX0R5bmFtaWNMb2NhbGl6YXRpb25EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Home/PartialViews/_DashboardChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsVmlld3NcX0Rhc2hib2FyZENoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Notifications/AdminPanelNotificationsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc1xBZG1pblBhbmVsTm90aWZpY2F0aW9uc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Notifications/PartialViews/_AdminPanelNotificationsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc1xQYXJ0aWFsVmlld3NcX0FkbWluUGFuZWxOb3RpZmljYXRpb25zTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Notifications/PartialViews/_HeaderLangSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc1xQYXJ0aWFsVmlld3NcX0hlYWRlckxhbmdTZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Notifications/PartialViews/_SiteHeaderNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc1xQYXJ0aWFsVmlld3NcX1NpdGVIZWFkZXJOb3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/CreateNewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXENyZWF0ZU5ld1Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ImagesUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXEltYWdlc1VwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_BulkUploadValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfQnVsa1VwbG9hZFZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ImagesUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfSW1hZ2VzVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ProductReviewsDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfUHJvZHVjdFJldmlld3NEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ProductsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfUHJvZHVjdHNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ProductsReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfUHJvZHVjdHNSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ProductVariantDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfUHJvZHVjdFZhcmlhbnREZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/PartialViews/_ProductVariants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFBhcnRpYWxWaWV3c1xfUHJvZHVjdFZhcmlhbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductReviewsDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RSZXZpZXdzRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductsBulkUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RzQnVsa1VwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductsReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RzUmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductVariantDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RWYXJpYW50RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/ProductVariants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFByb2R1Y3RWYXJpYW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/ProductsCatalog/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDYXRhbG9nXFVwZGF0ZVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/OrdersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcT3JkZXJzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/PartialViews/_OrderItemVariants.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcUGFydGlhbFZpZXdzXF9PcmRlckl0ZW1WYXJpYW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/PartialViews/_OrderNoteMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcUGFydGlhbFZpZXdzXF9PcmRlck5vdGVNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/PartialViews/_OrderNoteMessages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcUGFydGlhbFZpZXdzXF9PcmRlck5vdGVNZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Sales/PartialViews/_OrdersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcUGFydGlhbFZpZXdzXF9PcmRlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/_SideMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/TaskManagement/PartialViews/_OrderRefundRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9PcmRlclJlZnVuZFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/TaskManagement/PartialViews/_RequestModalHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9SZXF1ZXN0TW9kYWxIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/TaskManagement/PartialViews/_RequestsQueue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9SZXF1ZXN0c1F1ZXVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/TaskManagement/PartialViews/_VendorRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9WZW5kb3JSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/TaskManagement/RequestsQueue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza01hbmFnZW1lbnRcUmVxdWVzdHNRdWV1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/AddressTypesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcQWRkcmVzc1R5cGVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/CitiesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcQ2l0aWVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/CountriesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcQ291bnRyaWVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/PartialViews/_AddressTypesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9BZGRyZXNzVHlwZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/PartialViews/_CitiesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9DaXRpZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/PartialViews/_CountriesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9Db3VudHJpZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/PartialViews/_StateProvinceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9TdGF0ZVByb3ZpbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/PartialViews/_UsersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcUGFydGlhbFZpZXdzXF9Vc2Vyc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/StateProvinceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcU3RhdGVQcm92aW5jZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/UserManagement/UsersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcVXNlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasyr/OneDrive/Desktop/project/EpicodeCapstone/AdminPanel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cxfutip2kg
